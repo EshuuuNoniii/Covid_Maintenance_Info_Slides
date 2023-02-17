@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+#head{
+    text-align: center;
+    color: rgb(5, 3, 94);
+}
+img{
+    width: 700px;
+    height: 500px;
+}
+#healthDescription1{
+    text-align: inherit;
+    color: blue;
+    margin-top: -400px;
+    margin-left: 850px;
+}
+p{
+    margin-left: 720px;
+    margin-top: 50px;
+}
